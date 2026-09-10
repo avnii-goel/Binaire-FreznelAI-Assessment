@@ -1,0 +1,33 @@
+{
+  "name": "binaire-freznelai-assessment",
+  "version": "1.0.0",
+  "description": "Use this template for making the Model selector assessment for Freznel AI.",
+  "main": "eslint.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avnii-goel/Binaire-FreznelAI-Assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/avnii-goel/Binaire-FreznelAI-Assessment/issues"
+  },
+  "homepage": "https://github.com/avnii-goel/Binaire-FreznelAI-Assessment#readme",
+  "dependencies": {
+    "@adobe/react-spectrum": "^3.47.5",
+    "@spectrum-icons/workflow": "^4.3.2",
+    "@vitejs/plugin-react": "^6.1.1",
+    "firebase": "^12.19.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-router-dom": "^7.18.3",
+    "vite": "^8.2.2"
+  }
+}
